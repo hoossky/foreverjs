@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "express": "4.17.1",
-    "forever": "3.0.4"
+    "forever": "3.0.4",
+    "pm2": "4.5.5"
   },
   "keywords": [],
   "author": "",
